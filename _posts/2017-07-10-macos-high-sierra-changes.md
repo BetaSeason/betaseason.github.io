@@ -1,1 +1,29 @@
-Placeholder
+# macOS 10.13 High Sierra Changes
+
+With most macOS updates, there are many feature additions that are not shown at WWDC or listed in the official changelogs. This is an attempt to coalesce the various changes in High Sierra which haven’t gotten much attention. Here, we go beyond the changes listed on Apple’s website and get down to the nitty details.
+Unlike in iOS, new features on macOS are relatively rare; thus, this list won’t be as large as the iOS list.
+
+## System
+* New font in word lookup
+<!-- image here -->
+
+## Finder
+* QuickLook doesn’t paginate PDF files any longer. You can now scroll through them continuously.
+* New ability to open apps in low resolution mode on Macs with retina displays. To enable this for an application, click on an application, press ⌘I, and check the “Open in Low Resolution” box.
+
+## Notes
+* You can select text while pressing alt (⌥) now to select a block of text
+* You can make tables now, of course, just like on iOS 11
+* In the “All Notes” section you can now see which folder a note belongs to
+
+## Safari
+* You no longer can click outside page in reader view to close reader view and go back to the website
+* Zooming and scrolling in PDFs within Safari has drastically been improved — with full 60fps scrolling and hardly any lag. However, zooming as of beta 2 seems quite glitchy and causes the page to scroll as well.
+* New drag and drop interface, akin to that on iOS 11 shown in the image below)
+<!-- image here -->
+
+## Dictionary
+* Many new languages are supported. To see a complete list, open Dictionary’s preferences by pressing ⌘,
+
+## Siri
+* New Siri “orb” in Siri UI when talking to Siri, just like on iOS 11
