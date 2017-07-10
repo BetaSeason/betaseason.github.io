@@ -1,4 +1,10 @@
-# macOS 10.13 High Sierra Changes
+---
+layout: post
+title:  "macOS 10.13 High Sierra Changes"
+date:   2017-07-10
+categories: [macOS]
+comments: false
+---
 
 With most macOS updates, there are many feature additions that are not shown at WWDC or listed in the official changelogs. This is an attempt to coalesce the various changes in High Sierra which haven’t gotten much attention. Here, we go beyond the changes listed on Apple’s website and get down to the nitty details.
 Unlike in iOS, new features on macOS are relatively rare; thus, this list won’t be as large as the iOS list.
